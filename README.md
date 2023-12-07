@@ -9,9 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ajay-katudiya&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ajay-katudiya&theme=dark&hide_border=true)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ajay-katudiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
 #  [:smile:](https://threejs.org/editor/)
 
 ```stl
