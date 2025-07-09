@@ -1,4 +1,4 @@
-# Hello! I'm [Ajay Katudiya](https://github.com/ajay-katudiya)
+# Hello! I'm [Ajay Katudiya](https://ajaykatudiya.vercel.app/)
 ## : :globe_with_meridians: : Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katudiya_ajay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-katudiya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ajaykatudiya) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FAjayKatudiya1)](https://twitter.com/AjayKatudiya1)
 
