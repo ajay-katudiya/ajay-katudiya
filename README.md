@@ -1,5 +1,31 @@
-<!-- # Hello! I'm [Ajay Katudiya](https://ajaykatudiya.vercel.app/)
-## : :globe_with_meridians: : Socials:
+
+
+# Hello! I'm Ajay Katudiya.
+Created and optimized Three.js-based some 3D demos for assignments and practical exploration. 🙂
+
+### 🂡 Card Selection – 3D Interaction Demo 
+
+🔗 [https://threejs-card-selection.vercel.app/](https://threejs-card-selection.vercel.app/)
+
+* Raycasting-based object picking
+* hover animations
+* Clean camera composition for UI-focused 3D
+
+**Tech:** Three.js, JavaScript, WebGL
+
+---
+
+### 🌍 Solar System – Elliptical Orbit Simulation
+
+🔗 [https://solar-system-blue.vercel.app/](https://solar-system-blue.vercel.app/)
+
+* Elliptical orbit mathematics
+* Hierarchical scene graph (parent–child relations)
+* Scaled visualization for clarity and performance
+
+**Tech:** Three.js, JavaScript, Math-based animation.
+
+<!-- ## : :globe_with_meridians: : Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katudiya_ajay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-katudiya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ajaykatudiya) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FAjayKatudiya1)](https://twitter.com/AjayKatudiya1)
 
 ## : :technologist: : Tech Stack:
