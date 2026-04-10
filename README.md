@@ -1,17 +1,32 @@
-
-
 # Hello! I'm Ajay Katudiya.
 Created and optimized Three.js-based some 3D demos for assignments and practical exploration. 🙂
 
-### 🂡 Card Selection – 3D Interaction Demo 
+### 🤖 interactive Robot Controller - 3D controling Robot.
+🔗 [Cute Robot](https://interactive-robot-controller.vercel.app/)
 
-🔗 [https://threejs-card-selection.vercel.app/](https://threejs-card-selection.vercel.app/)
+* Dynamic Animations: Walk, Jump, and Idle animations with smooth transitions
+* Interactive Raycasting: Click the robot's head to jump or torso to toggle walking
+* Real-Time FPS Monitoring: Live FPS tracking with frame time display
+* Adaptive Quality System: Automatic quality adjustment (Low/Medium/High) based on performance
+* Night Mode: Toggle between day and night modes with dynamic lighting
+* Bloom Effects: Post-processing bloom effect for enhanced visuals
+* Mobile Responsive: Touch support and device pixel ratio optimization
+* Modular Architecture: Separated concerns with dedicated FPS monitoring module
+
+**Tech:** Three.js | JavaScript | HTML.
+
+---
+
+### 🂡 Card Selection – 3D Interaction Demo.
+
+🔗 [Card Selection](https://threejs-card-selection.vercel.app/)
 
 * Raycasting-based object picking
 * hover animations
 * Clean camera composition for UI-focused 3D
+* divice responsive with touch support.
 
-**Tech:** Three.js, JavaScript, WebGL
+**Tech:** Three.js | JavaScript | HTML.
 
 ---
 
@@ -23,7 +38,7 @@ Created and optimized Three.js-based some 3D demos for assignments and practical
 * Hierarchical scene graph (parent–child relations)
 * Scaled visualization for clarity and performance
 
-**Tech:** Three.js, JavaScript, Math-based animation.
+**Tech:** Three.js | JavaScript | Math-based animation.
 
 <!-- ## : :globe_with_meridians: : Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katudiya_ajay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-katudiya) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ajaykatudiya) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FAjayKatudiya1)](https://twitter.com/AjayKatudiya1)
