@@ -64,13 +64,3 @@ Developed clinically oriented 3D web SaaS applications where absolute geometric 
 * **Core Focus:** Graphics performance profiling, multi-million polygon asset management, and math-intensive 3D UI states.
 * **⚙️ Stack:** Three.js | WebGL | GLSL Shaders | Vue 3 | Nuxt.js | JavaScript (ES6+) | THREE-BVH-CSG | Git 
 ---
-
-## 🧠 About Me
-- 5+ years experience in **Three.js / WebGL development**  
-- Strong focus on **performance optimization and real-time rendering**  
-- Experience building **geometry-intensive, interaction-heavy 3D systems**
-
----
-
-## ⚙️ Tech Stack
-**Three.js | WebGL | Vue.js | JavaScript | HTML | CSS** -->
