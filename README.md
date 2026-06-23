@@ -10,7 +10,7 @@
 > "In Ajay's case, we've been working together for a long time, and he has always worked diligently according to instructions. His skills have improved significantly since he first joined, to the point where he can now develop algorithms and build actual products."
 > 
 > **— Project Lead Statement**  
-> *Officially endorsed and verified by **Wanchen Marten, Chief Operating Officer (COO)** at **Accu3DX Co., Ltd.** (Letter dated: April 1, 2026)*
+> *Officially endorsed and verified by **Wanchen Marten, Chief Operating Officer (COO)** at **Accu3DX Co., Ltd.*** 
 > 
 > 📄 **[Click Here to View the Official Reference Letter](https://drive.google.com/file/d/1RkDP_KDmgqHAZzGxx-spFFiYAJ6ClzNu/view?usp=drive_link)**
 
